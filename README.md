@@ -2,7 +2,7 @@ I am documenting what I am learning.
 
 # Index
 ## [1 - Learning Process](Learning%20Process)
-Esta seccion trata de mantener la motivacion y nunca rendirze apesar de todos los obstaculos que se nos presentes por el camino.
+Esta seccion trata de como mantener la motivacion y nunca rendirze apesar de todos los obstaculos que se nos presentes por el camino.
 
   [2.1 - Preparación del Laboratorio](https://youtu.be/ZBFu6hdFtiY)  
   [2.2 - Instalación de Kali Linux](https://youtu.be/RRrwG2AMcKo)  
