@@ -2,10 +2,9 @@ I am documenting what I am learning.
 
 # Index
 ## 1 - Learning Process
-Trabajaremos la preparación del laboratorio para practicar los ejercicios que estaremos realizando, veremos las opciones de hipervisores, instalación de sistemas operativos y configuraciones generales. 
+Esta seccion trata de mantener la motivacion y nunca rendirze apesar de todos los obstaculos que se nos presentes por el camino.
 
 [Learning Process](Learning Process)  
-
   [2.1 - Preparación del Laboratorio](https://youtu.be/ZBFu6hdFtiY)  
   [2.2 - Instalación de Kali Linux](https://youtu.be/RRrwG2AMcKo)  
   [2.3 - Instalación de Windows 10](https://youtu.be/vET-9-dqraM)  
