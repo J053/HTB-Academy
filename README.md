@@ -4,7 +4,7 @@ I am documenting what I am learning.
 ## 1 - Learning Process
 Trabajaremos la preparación del laboratorio para practicar los ejercicios que estaremos realizando, veremos las opciones de hipervisores, instalación de sistemas operativos y configuraciones generales. 
 
-  [Learning Process](Learning Process)  
+[Learning Process](Learning Process)  
 
   [2.1 - Preparación del Laboratorio](https://youtu.be/ZBFu6hdFtiY)  
   [2.2 - Instalación de Kali Linux](https://youtu.be/RRrwG2AMcKo)  
