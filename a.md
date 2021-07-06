@@ -1,1 +1,1 @@
-%md ###  <span style="color:red">text</span>
+[Look, ma! Red!](red)
