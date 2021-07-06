@@ -1,5 +1,5 @@
 # Index
-## [1 - Learning Process](Learning%20Process)
+## [1. Learning Process](Learning%20Process)
   [1.1 - Mindset](Learning%20Process/1.%20Mindset.md)  
   [1.2 - Learning Dependencies](Learning%20Process/2.%20Learning%20Dependencies.md)  
   [1.3 - Learning Overview](Learning%20Process/3.%20Learning%20Overview.md)  
