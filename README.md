@@ -4,7 +4,6 @@ I am documenting what I am learning.
 ## [1 - Learning Process](Learning%20Process)
 Esta seccion trata de mantener la motivacion y nunca rendirze apesar de todos los obstaculos que se nos presentes por el camino.
 
-[Learning Process](Learning%20Process)  
   [2.1 - Preparación del Laboratorio](https://youtu.be/ZBFu6hdFtiY)  
   [2.2 - Instalación de Kali Linux](https://youtu.be/RRrwG2AMcKo)  
   [2.3 - Instalación de Windows 10](https://youtu.be/vET-9-dqraM)  
